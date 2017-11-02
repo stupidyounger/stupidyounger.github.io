@@ -1,5 +1,4 @@
 # stupidyounger.github.io
-My first blog
 ###c语言
 
 
