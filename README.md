@@ -1,5 +1,5 @@
 # stupidyounger.github.io
-###c语言
+### c语言
 
 
-###数据结构
+### 数据结构
